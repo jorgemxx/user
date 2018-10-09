@@ -2,7 +2,7 @@
  /**
   * Manejador con MySQLi
   * Para LIGA 3
-  * Autor: Mtro. Oscar Galileo García García
+  * Autor: ramirez mireles jorge
   */
  class BD {
     static  $conn;
